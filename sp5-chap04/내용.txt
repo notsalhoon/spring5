@@ -1,0 +1,7 @@
+Autowired의 전반적인 내용
+
+의존 자동 주입->세터 게터 메소드 x
+
+Qualifier : 같은 빈 타입이 여러개일때 지정
+
+required 속성, Optional 타입, Nullable을 이용해도 됨
